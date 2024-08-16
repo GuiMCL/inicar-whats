@@ -5,14 +5,15 @@
 
 body{
     font-family: 'Gloria Hallelujah', cursive;
+    background-color: #000000;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: unset;
-    background-image:url("./bg1.png");
 }
 
 #container {
     text-align: center;
+    color: aliceblue;
     max-width: 100%;
 }
 
